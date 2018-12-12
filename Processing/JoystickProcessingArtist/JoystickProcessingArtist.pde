@@ -195,11 +195,11 @@ void draw() {
     // avoids the position "wandering" if the joystick is slighty off-centre. 
     int value = arduino.analogRead(PIN_ANALOG_X);  
     
-    final int X_THRESHOLD_LOW = 505;
-    final int X_THRESHOLD_HIGH = 515;    
+    final int X_THRESHOLD_LOW = 490;
+    final int X_THRESHOLD_HIGH = 525;    
     
-    final int Y_THRESHOLD_LOW = 500;
-    final int Y_THRESHOLD_HIGH = 510;    
+    final int Y_THRESHOLD_LOW = 490;
+    final int Y_THRESHOLD_HIGH = 530;    
     
     if (value > X_THRESHOLD_HIGH) {
       draw_x++;
