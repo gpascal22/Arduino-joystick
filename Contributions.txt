@@ -1,7 +1,9 @@
 Joseph Robinson - Contributed SparkFun experiments; made part of the report
 document.
 
-Angelo Gonzales -
+Angelo Gonzales - Contributed in SparkFun experiements, melody control and
+draw. Edited reaction time game for our Joysick. Contributed in report
+document.
 
 William Black -
 
